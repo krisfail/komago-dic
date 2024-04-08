@@ -112,6 +112,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>初ゼミ</string>
+		<key>shortcut</key>
+		<string>しょぜみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>進学振分</string>
 		<key>shortcut</key>
 		<string>しんがくふりわけ</string>
